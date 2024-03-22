@@ -161,12 +161,17 @@ trichydmart.html
 
 ## OUTPUT
 
-![alt text](<mapapp/static/output - map.png>) 
-![alt text](<mapapp/static/output - trichycentralbusstand.png>) 
-![alt text](<mapapp/static/output - trichydmart.png>) 
-![alt text](<mapapp/static/output - trichymariyamcinemas.png>)
-![alt text](<mapapp/static/output - trichynalamhospital.png>) 
-![alt text](<mapapp/static/output - trichysonaminatheatres.png>)
+![output - map](https://github.com/ikeerthivasanswaminathan/NearMe/assets/148937372/6c106d6e-4af6-471a-a48e-b53d89918667)
+
+![output - trichycentralbusstand](https://github.com/ikeerthivasanswaminathan/NearMe/assets/148937372/110070d8-12bb-4522-9ac7-fd8d753e1774)
+
+![output - trichydmart](https://github.com/ikeerthivasanswaminathan/NearMe/assets/148937372/b9cfbbf1-ab4e-4e31-b704-fe8bf9d4f4c4)
+
+![output - trichymariyamcinemas](https://github.com/ikeerthivasanswaminathan/NearMe/assets/148937372/38af506a-a879-4443-837b-4aec153a5f46)
+
+![output - trichynalamhospital](https://github.com/ikeerthivasanswaminathan/NearMe/assets/148937372/b78e2fee-5944-4f7c-b330-009e5900684f)
+
+![output - trichysonaminatheatres](https://github.com/ikeerthivasanswaminathan/NearMe/assets/148937372/6663be4b-7203-42a4-b21f-d47d648ad8db)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
